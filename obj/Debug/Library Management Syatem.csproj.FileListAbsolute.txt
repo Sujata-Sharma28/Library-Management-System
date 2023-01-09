@@ -1,0 +1,47 @@
+D:\Align Books Project\Library Management Syatem\bin\Debug\Library Management Syatem.exe.config
+D:\Align Books Project\Library Management Syatem\bin\Debug\Library Management Syatem.exe
+D:\Align Books Project\Library Management Syatem\bin\Debug\Library Management Syatem.pdb
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library_Management_Syatem.Properties.Resources.resources
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library Management Syatem.csproj.GenerateResource.cache
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library Management Syatem.csproj.CoreCompileInputs.cache
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library Management Syatem.exe
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library Management Syatem.pdb
+D:\Align Books Project\Library Management Syatem\bin\Debug\Guna.UI2.dll
+D:\Align Books Project\Library Management Syatem\bin\Debug\MySql.Data.dll
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library_Management_Syatem.ChangeYourPassword.resources
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library_Management_Syatem.Login.resources
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library_Management_Syatem.SignUpForm.resources
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library_Management_Syatem.VerifyForm.resources
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library Management Syatem.csproj.CopyComplete
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library_Management_Syatem.Dashboard.resources
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library_Management_Syatem.AddBooks_Form.resources
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library_Management_Syatem.ViewBooks_Form.resources
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library_Management_Syatem.AddStudent_Form.resources
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library_Management_Syatem.ViewStudents_Form.resources
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library_Management_Syatem.IssueBooks_Form.resources
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library_Management_Syatem.ReturnBooks_Form.resources
+D:\Align Books Project\Library Management Syatem\obj\Debug\Library_Management_Syatem.Complete_Book_DetailsForm.resources
+D:\Align Books Project\Library Management System\bin\Debug\Library Management Syatem.exe.config
+D:\Align Books Project\Library Management System\bin\Debug\Library Management Syatem.exe
+D:\Align Books Project\Library Management System\bin\Debug\Library Management Syatem.pdb
+D:\Align Books Project\Library Management System\bin\Debug\Guna.UI2.dll
+D:\Align Books Project\Library Management System\bin\Debug\MySql.Data.dll
+D:\Align Books Project\Library Management System\obj\Debug\Library Management Syatem.csproj.AssemblyReference.cache
+D:\Align Books Project\Library Management System\obj\Debug\Library_Management_Syatem.AddBooks_Form.resources
+D:\Align Books Project\Library Management System\obj\Debug\Library_Management_Syatem.AddStudent_Form.resources
+D:\Align Books Project\Library Management System\obj\Debug\Library_Management_Syatem.ChangeYourPassword.resources
+D:\Align Books Project\Library Management System\obj\Debug\Library_Management_Syatem.Complete_Book_DetailsForm.resources
+D:\Align Books Project\Library Management System\obj\Debug\Library_Management_Syatem.Dashboard.resources
+D:\Align Books Project\Library Management System\obj\Debug\Library_Management_Syatem.IssueBooks_Form.resources
+D:\Align Books Project\Library Management System\obj\Debug\Library_Management_Syatem.Login.resources
+D:\Align Books Project\Library Management System\obj\Debug\Library_Management_Syatem.Properties.Resources.resources
+D:\Align Books Project\Library Management System\obj\Debug\Library_Management_Syatem.ReturnBooks_Form.resources
+D:\Align Books Project\Library Management System\obj\Debug\Library_Management_Syatem.SignUpForm.resources
+D:\Align Books Project\Library Management System\obj\Debug\Library_Management_Syatem.VerifyForm.resources
+D:\Align Books Project\Library Management System\obj\Debug\Library_Management_Syatem.ViewBooks_Form.resources
+D:\Align Books Project\Library Management System\obj\Debug\Library_Management_Syatem.ViewStudents_Form.resources
+D:\Align Books Project\Library Management System\obj\Debug\Library Management Syatem.csproj.GenerateResource.cache
+D:\Align Books Project\Library Management System\obj\Debug\Library Management Syatem.csproj.CoreCompileInputs.cache
+D:\Align Books Project\Library Management System\obj\Debug\Library Management Syatem.csproj.CopyComplete
+D:\Align Books Project\Library Management System\obj\Debug\Library Management Syatem.exe
+D:\Align Books Project\Library Management System\obj\Debug\Library Management Syatem.pdb
